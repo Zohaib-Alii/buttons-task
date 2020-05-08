@@ -1,0 +1,72 @@
+*{
+    /* margin: 0 ;
+    padding: 0; */
+    text-align: center;
+}
+button{
+    padding: 10px 30px;
+    font-size: 20px;
+    cursor: pointer;
+    margin: 10px 20px;
+    color: white;
+}
+#cart-button{
+    background-color: #C63928;
+    color: white;
+    border: 1px solid #C63928;
+}
+#cart-button:hover{
+    background-color: #EA4248;
+}
+#start-button{
+    color: #2A61FB;
+    background-color: yellow;
+    border: 2px solid #2A61FB;
+    /* font-size: 20px; */
+    padding: 10px 20px;
+    font-family: 'Gugi', cursive;
+}
+#start-button:hover{
+    background-color: #2A61FB;
+    color: yellow;
+}
+#login-button{
+    background-image: linear-gradient(to left, #A8D485,#59D0DB);
+    border-radius: 20px;
+    padding: 10px 30px;
+    border: none;
+    /* font-size: 20px; */
+}
+#sign-up-button{
+    color: #6749EA;
+    border: 3px solid #6749EA;
+    background-color: white;
+    /* font-size: 20px; */
+    border-radius: 10px;
+}
+#sign-up-button:hover{
+    background-color: #6749EA;
+    color: white;
+}
+#subscribe-button{
+    background-image: linear-gradient(to top,#F5A332, #FAC933) ;
+    border: 2px solid #F5A332;
+    border-radius: 5px;
+    font-size: 20px;
+}
+#subscribe-button:hover{
+    background-color: #F5A332;
+    background-image: none;
+}
+#twitter-icon{
+    color: #37A1F3;
+    border-radius: 150px;
+    padding: 15px 17px;
+    font-size: 20px;
+    background-color: white;
+    border: 2px solid #37A1F3;
+}
+#twitter-icon:hover{
+    background-color: #37A1F3;
+    color: white;
+}
